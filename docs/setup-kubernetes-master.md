@@ -1,6 +1,6 @@
 # Setup a Kubernetes master with a Kubernetes Cluster
 
-1. Execute the bash script below (follow-up guide: [Setup Kubernetes Kubeadm](docs/setup-kubernetes-kubeadm.md)) to prepare the Kubernetes Master Machine and install all needed tools to operate a Kubernetes Cluster. The bash script below needs to be executed on the Kubernetes Master Machine:
+1. Execute the bash script below (follow-up guide: [Setup Kubernetes Kubeadm](setup-kubernetes-kubeadm.md)) to prepare the Kubernetes Master Machine and install all needed tools to operate a Kubernetes Cluster. The bash script below needs to be executed on the Kubernetes Master Machine:
 
    `../scripts/setup-kubernetes-kubeadm.sh`
 

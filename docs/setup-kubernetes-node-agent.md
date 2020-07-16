@@ -1,6 +1,6 @@
 # Setup a Kubernetes Node Agent
 
-1. Execute the bash script below (follow-up guide: [Setup Kubernetes Kubeadm](docs/setup-kubernetes-kubeadm.md)) to prepare the Kubernetes Node Agent Machine and install all needed tools to operate a Kubernetes Node Agent. The bash script below needs to be executed on the Kubernetes Node Agent Machine:
+1. Execute the bash script below (follow-up guide: [Setup Kubernetes Kubeadm](setup-kubernetes-kubeadm.md)) to prepare the Kubernetes Node Agent Machine and install all needed tools to operate a Kubernetes Node Agent. The bash script below needs to be executed on the Kubernetes Node Agent Machine:
 
    `../scripts/setup-kubernetes-kubeadm.sh`
 
